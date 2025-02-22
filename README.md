@@ -1,7 +1,7 @@
-# Hello World!
+# Hello World
 
 📚 Currently Learning Web Development!\
-🐛 Writing Bugs Everyday!\
+🐛 Writing Bugs Every Day!\
 🤖 I Code Discord Bots by The Way...
 
 # Tech
@@ -10,6 +10,6 @@
 
 ## Socials
 
-[![Static Badge](https://img.shields.io/badge/%40SkyWolfXP-FFFFFF?style=flat-square&logo=discord&logoColor=FFFFFF&color=%235865F2)](https://discord.com/users/545902760453996546) [![Static Badge](https://img.shields.io/badge/u%2FSkyWolfXP-FFFFFF?style=flat-square&logo=reddit&logoColor=FFFFFF&color=%23FF4500)](https://reddit.com/user/skywolfxp) [![Static Badge](https://img.shields.io/badge/SkyWolfXP-FFFFFF?style=flat-square&logo=stackoverflow&logoColor=FFFFFF&color=%23F58025)](https://stackoverflow.com/users/16410630)
+[![Static Badge](https://img.shields.io/badge/%40SkyWolfXP-FFFFFF?style=flat-square&logo=discord&logoColor=FFFFFF&color=%235865F2)](https://discord.com/users/545902760453996546) [![Static Badge](https://img.shields.io/badge/Fiverr-FFFFFF?style=flat-square&logo=fiverr&logoColor=FFFFFF&color=%231DBF73)](https://www.fiverr.com/skywolfxp) [![Static Badge](https://img.shields.io/badge/u%2FSkyWolfXP-FFFFFF?style=flat-square&logo=reddit&logoColor=FFFFFF&color=%23FF4500)](https://reddit.com/user/skywolfxp) [![Static Badge](https://img.shields.io/badge/SkyWolfXP-FFFFFF?style=flat-square&logo=stackoverflow&logoColor=FFFFFF&color=%23F58025)](https://stackoverflow.com/users/16410630)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
