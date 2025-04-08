@@ -1,7 +1,7 @@
 <h1 align="center">Hello World</h1>
 
 🐛 Writing Bugs Every Day!\
-📚 Learning Web Development!\
+📚 Learning Full-Stack Development!\
 🤖 I Code [Discord Bots](https://www.fiverr.com/s/xXKpg2D) By The Way...
 
 <h1 align="center">Technologies</h1>
