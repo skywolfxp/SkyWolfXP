@@ -6,7 +6,7 @@
 
 # Technologies
 
-![Technologies](https://skillicons.dev/icons?i=java,javascript,typescript,html,css,spring,nextjs,react,tailwind,postgres,mysql,redis,maven,gradle,nodejs,npm,heroku&perline=9)
+![Technologies](https://skillicons.dev/icons?i=java,javascript,typescript,html,css,spring,nextjs,react,tailwind,postgres,mysql,redis,maven,gradle,nodejs,npm,heroku)
 
 ## Socials
 
