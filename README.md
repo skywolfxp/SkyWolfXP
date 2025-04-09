@@ -1,7 +1,7 @@
 # Hello World
 
 🐛 Writing Bugs Every Day!\
-📚 Learning Web Development!\
+📚 Learning Full-Stack Development!\
 🤖 I Code [Discord Bots](https://www.fiverr.com/s/xXKpg2D) By The Way...
 
 # Technologies
