@@ -11,7 +11,7 @@
 </a>
 
 <details>
-<summary><strong>Tools</strong></summary>
+<summary><h2>Tools</h2></summary>
 
 <a href="https://github.com/SkyWolfXP">
     <img src="https://skillicons.dev/icons?i=idea,vscodium,git,maven,gradle,npm" />
