@@ -7,16 +7,14 @@
 # Technologies
 
 <a href="https://github.com/SkyWolfXP">
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,spring,nextjs,react,tailwind,postgres,mysql,redis,maven,gradle,nodejs,npm,heroku" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,spring,nextjs,react,tailwind,postgres,mysql,redis,nodejs,heroku" />
 </a>
 
 <details>
-<summary>
-    <h1>Tools</h1>
-</summary>
+<summary><strong>Tools</strong></summary>
 
 <a href="https://github.com/SkyWolfXP">
-    <img src="https://skillicons.dev/icons?i=idea,vscodium,git" />
+    <img src="https://skillicons.dev/icons?i=idea,vscodium,git,maven,gradle,npm" />
 </a>
 </details>
 
