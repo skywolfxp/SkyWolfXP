@@ -6,17 +6,17 @@
 
 # Technologies
 
+### Languages
+
 <a href="https://github.com/SkyWolfXP">
     <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,spring,nextjs,react,tailwind,postgres,mysql,redis,nodejs,heroku" />
 </a>
 
-<details>
-<summary><h2>Tools</h2></summary>
+### Tools
 
 <a href="https://github.com/SkyWolfXP">
     <img src="https://skillicons.dev/icons?i=idea,vscodium,git,maven,gradle,npm" />
 </a>
-</details>
 
 ## Socials
 
