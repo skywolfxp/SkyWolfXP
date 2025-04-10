@@ -4,19 +4,23 @@
 📚 Learning Full-Stack Development!\
 🤖 I Code [Discord Bots](https://www.fiverr.com/s/xXKpg2D) By The Way...
 
-# Technologies
+# Skills
 
-### Languages
+<h3 align="center">Technologies</h3>
 
-<a href="https://github.com/SkyWolfXP">
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,spring,nextjs,react,tailwind,postgres,mysql,redis,nodejs,heroku" />
-</a>
+<p align="center">
+    <a href="https://github.com/SkyWolfXP">
+        <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,spring,nextjs,react,tailwind,postgres,mysql,redis,nodejs,heroku&perline=7" />
+    </a>
+</p>
 
-### Tools
+<h3 align="center">Tools</h3>
 
-<a href="https://github.com/SkyWolfXP">
-    <img src="https://skillicons.dev/icons?i=idea,vscodium,git,maven,gradle,npm" />
-</a>
+<p align="center">
+    <a href="https://github.com/SkyWolfXP">
+        <img src="https://skillicons.dev/icons?i=idea,vscodium,git,maven,gradle,npm&perline=7" />
+    </a>
+</p>
 
 ## Socials
 
