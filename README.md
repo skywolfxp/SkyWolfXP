@@ -10,7 +10,7 @@
 
 <p align="center">
     <a href="https://github.com/SkyWolfXP">
-        <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,spring,nextjs,react,tailwind,postgres,mysql,redis,nodejs,heroku&perline=7" />
+        <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,html,css,spring,junit,nextjs,react,tailwind,postgresql,mysql,redis,nodejs,heroku&perline=7&titles=true" />
     </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 <p align="center">
     <a href="https://github.com/SkyWolfXP">
-        <img src="https://skillicons.dev/icons?i=idea,vscodium,git,maven,gradle,npm&perline=7" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscodium,git,maven,gradle,npm,gimp&perline=7" />
     </a>
 </p>
 
