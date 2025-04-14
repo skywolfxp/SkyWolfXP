@@ -16,7 +16,7 @@
 
 <p align="center">
     <a href="https://github.com/SkyWolfXP">
-        <img alt="Technologies" align="center" src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,html,css,spring,junit,nextjs,react,tailwind,postgresql,mysql,redis,nodejs,heroku&theme=dark&perline=7&titles=true" />
+        <img alt="Technologies" align="center" src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,html,css,spring,junit,nextjs,react,tailwind,postgresql,mysql,redis,nodejs,heroku&theme=dark&perline=8&titles=true" />
     </a>
 </p>
 
@@ -24,6 +24,6 @@
 
 <p align="center">
     <a href="https://github.com/SkyWolfXP">
-        <img alt="Tools" src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscodium,git,maven,gradle,npm,gimp&theme=dark&perline=7&titles=true" />
+        <img alt="Tools" src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscodium,git,maven,gradle,npm,gimp&theme=dark&perline=8&titles=true" />
     </a>
 </p>
