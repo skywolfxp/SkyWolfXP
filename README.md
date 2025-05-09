@@ -20,10 +20,26 @@
     </a>
 </p>
 
-<h3 align="center">Tools</h3>
+<details align="center">
+<summary>
+    <strong>Build Tools</strong>
+</summary>
 
-<p align="center">
+<p>
     <a href="https://github.com/SkyWolfXP">
-        <img alt="Tools" src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscodium,git,maven,gradle,npm,gimp&theme=dark&perline=8&titles=true" />
+        <img alt="Build Tools" src="https://go-skill-icons.vercel.app/api/icons?i=maven,gradle,pnpm,npm&theme=dark&perline=8&titles=true" />
     </a>
 </p>
+</details>
+
+<details align="center">
+<summary>
+    <strong>Tools</strong>
+</summary>
+
+<p>
+    <a href="https://github.com/SkyWolfXP">
+        <img alt="Tools" src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,visualstudio,git&theme=dark&perline=8&titles=true" />
+    </a>
+</p>
+</details>
