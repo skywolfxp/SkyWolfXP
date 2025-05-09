@@ -12,9 +12,11 @@
 
 # Skills
 
+<p>
 <a href="https://github.com/SkyWolfXP#hello-world">
     <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,html,css&theme=dark&perline=8&titles=true" />
 </a>
+</p>
 
 <a href="https://github.com/SkyWolfXP#hello-world">
     <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=spring,junit,nextjs,react,tailwindcss,nodejs&theme=dark&perline=8&titles=true" />
