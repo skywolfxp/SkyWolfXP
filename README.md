@@ -12,15 +12,35 @@
 
 # Skills
 
-<h3 align="center">Technologies</h3>
+<h3>Languages</h3>
 
-<p align="center">
+<p>
     <a href="https://github.com/SkyWolfXP">
-        <img alt="Technologies" align="center" src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,html,css,spring,junit,nextjs,react,tailwind,postgresql,mysql,redis,nodejs,heroku&theme=dark&perline=8&titles=true" />
+        <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,html,css&theme=dark&perline=8&titles=true" />
     </a>
 </p>
 
-<details align="center">
+<h3>Frameworks</h3>
+
+<p>
+    <a href="https://github.com/SkyWolfXP">
+        <img alt="Frameworks" src="https://go-skill-icons.vercel.app/api/icons?i=spring,junit,nextjs,react,tailwind,nodejs,heroku&theme=dark&perline=8&titles=true" />
+    </a>
+</p>
+
+<details>
+<summary>
+    <strong>Databases</strong>
+</summary>
+
+<p>
+    <a href="https://github.com/SkyWolfXP">
+        <img alt="Databases" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,redis&theme=dark&perline=8&titles=true" />
+    </a>
+</p>
+</details>
+
+<details>
 <summary>
     <strong>Build Tools</strong>
 </summary>
@@ -32,14 +52,26 @@
 </p>
 </details>
 
-<details align="center">
+<details>
 <summary>
-    <strong>Tools</strong>
+    <strong>Dev Tools</strong>
 </summary>
 
 <p>
     <a href="https://github.com/SkyWolfXP">
-        <img alt="Tools" src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,visualstudio,git&theme=dark&perline=8&titles=true" />
+        <img alt="Dev Tools" src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,visualstudio,git&theme=dark&perline=8&titles=true" />
+    </a>
+</p>
+</details>
+
+<details>
+<summary>
+    <strong>Cloud</strong>
+</summary>
+
+<p>
+    <a href="https://github.com/SkyWolfXP">
+        <img alt="Cloud" src="https://go-skill-icons.vercel.app/api/icons?i=heroku,vercel&theme=dark&perline=8&titles=true" />
     </a>
 </p>
 </details>
