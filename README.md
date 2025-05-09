@@ -12,7 +12,7 @@
 
 # Skills
 
-<p style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
+<p style="display: flex; flex-wrap: wrap;">
 <a href="https://github.com/SkyWolfXP#hello-world">
     <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,html,css,&theme=dark&perline=8&titles=true" />
 </a>
