@@ -12,19 +12,15 @@
 
 # Skills
 
-<p style="display: flex; align-items: center;">
+<p style="display: flex; align-items: center; gap: 4px;">
 <a href="https://github.com/SkyWolfXP#hello-world">
     <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,html,css&theme=dark&perline=8&titles=true" />
 </a>
-
 <span>/</span>
-
 <a href="https://github.com/SkyWolfXP#hello-world">
     <img alt="Frameworks" src="https://go-skill-icons.vercel.app/api/icons?i=spring,junit,nextjs,react,tailwindcss,nodejs&theme=dark&perline=8&titles=true" />
 </a>
-
 <span>/</span>
-
 <a href="https://github.com/SkyWolfXP#hello-world">
     <img alt="Databases" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,redis&theme=dark&perline=8&titles=true" />
 </a>
