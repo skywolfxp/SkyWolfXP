@@ -22,28 +22,38 @@
             </a>
         </p>
         <h3 align="center">Databases</h3>
-        <a align="center" href="https://github.com/SkyWolfXP#hello-world">
-            <img alt="Databases" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,redis&theme=dark&perline=4&titles=true" />
-        </a>
+        <p align="center">
+            <a href="https://github.com/SkyWolfXP#hello-world">
+                <img alt="Databases" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,redis&theme=dark&perline=4&titles=true" />
+            </a>
+        </p>
         <h3 align="center">Build Tools</h3>
-        <a href="https://github.com/SkyWolfXP#hello-world">
-            <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=maven,gradle,pnpm,npm&theme=dark&perline=4&titles=true" />
-        </a>
+        <p align="center">
+            <a href="https://github.com/SkyWolfXP#hello-world">
+                <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=maven,gradle,pnpm,npm&theme=dark&perline=4&titles=true" />
+            </a>
+        </p>
         <img width="441" height="1">
     </td>
     <td>
         <h3 align="center">Frameworks</h3>
-        <a href="https://github.com/SkyWolfXP#hello-world">
-            <img alt="Frameworks" src="https://go-skill-icons.vercel.app/api/icons?i=spring,junit,nextjs,react,tailwindcss,nodejs&theme=dark&perline=4&titles=true" />
-        </a>
+        <p align="center">
+            <a href="https://github.com/SkyWolfXP#hello-world">
+                <img alt="Frameworks" src="https://go-skill-icons.vercel.app/api/icons?i=spring,junit,nextjs,react,tailwindcss,nodejs&theme=dark&perline=4&titles=true" />
+            </a>
+        </p>
         <h3 align="center">Cloud</h3>
-        <a href="https://github.com/SkyWolfXP#hello-world">
-            <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=heroku,vercel&theme=dark&perline=4&titles=true" />
-        </a>
+        <p align="center">
+            <a href="https://github.com/SkyWolfXP#hello-world">
+                <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=heroku,vercel&theme=dark&perline=4&titles=true" />
+            </a>
+        </p>
         <h3 align="center">Dev Tools</h3>
-        <a href="https://github.com/SkyWolfXP#hello-world">
-            <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,visualstudio,git&theme=dark&perline=4&titles=true" />
-        </a>
+        <p align="center">
+            <a href="https://github.com/SkyWolfXP#hello-world">
+                <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,visualstudio,git&theme=dark&perline=4&titles=true" />
+            </a>
+        </p>
         <img width="441" height="1">
     </td>
   </tr>
