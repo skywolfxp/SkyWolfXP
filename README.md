@@ -12,16 +12,16 @@
 
 # Skills
 
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Languages</h3>
+        <h3>Languages</h3>
         <a href="https://github.com/SkyWolfXP#hello-world">
             <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,html,css,&theme=dark&perline=5&titles=true" />
         </a>
     </td>
     <td width="50%" valign="top">
-      <h3>Frameworks</h3>
+        <h3 align="center">Frameworks</h3>
         <a href="https://github.com/SkyWolfXP#hello-world">
             <img alt="Frameworks" src="https://go-skill-icons.vercel.app/api/icons?i=spring,junit,nextjs,react,tailwindcss,nodejs,&theme=dark&perline=5&titles=true" />
         </a>
@@ -29,13 +29,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Databases</h3>
+        <h3 align="center">Databases</h3>
         <a href="https://github.com/SkyWolfXP#hello-world">
             <img alt="Databases" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,redis,&theme=dark&perline=5&titles=true" />
         </a>
     </td>
     <td width="50%" valign="top">
-      <h3>Build Tools</h3>
+        <h3 align="center">Build Tools</h3>
         <a href="https://github.com/SkyWolfXP#hello-world">
             <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=maven,gradle,pnpm,npm,&theme=dark&perline=5&titles=true" />
         </a>
@@ -43,13 +43,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Dev Tools</h3>
+        <h3 align="center">Dev Tools</h3>
         <a href="https://github.com/SkyWolfXP#hello-world">
             <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,visualstudio,git,&theme=dark&perline=5&titles=true" />
         </a>
     </td>
     <td width="50%" valign="top">
-      <h3>Cloud</h3>
+        <h3 align="center">Cloud</h3>
         <a href="https://github.com/SkyWolfXP#hello-world">
             <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=heroku,vercel&theme=dark&perline=5&titles=true" />
         </a>
