@@ -12,23 +12,23 @@
 
 # Skills
 
-<p style="display: flex; flex-wrap: wrap;">
-<a href="https://github.com/SkyWolfXP#hello-world">
-    <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,html,css,&theme=dark&perline=8&titles=true" />
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 1fr); gap: 16px;">
+<a  style="grid-column: 1; grid-row: 1;" href="https://github.com/SkyWolfXP#hello-world">
+    <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,html,css,&theme=dark&perline=5&titles=true" />
 </a>
-<a href="https://github.com/SkyWolfXP#hello-world">
-    <img alt="Frameworks" src="https://go-skill-icons.vercel.app/api/icons?i=spring,junit,nextjs,react,tailwindcss,nodejs,&theme=dark&perline=8&titles=true" />
+<a style="grid-column: 1; grid-row: 2;" href="https://github.com/SkyWolfXP#hello-world">
+    <img alt="Frameworks" src="https://go-skill-icons.vercel.app/api/icons?i=spring,junit,nextjs,react,tailwindcss,nodejs,&theme=dark&perline=5&titles=true" />
 </a>
-<a href="https://github.com/SkyWolfXP#hello-world">
-    <img alt="Databases" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,redis,&theme=dark&perline=8&titles=true" />
+<a style="grid-column: 1; grid-row: 3;" href="https://github.com/SkyWolfXP#hello-world">
+    <img alt="Databases" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,redis,&theme=dark&perline=5&titles=true" />
 </a>
-<a href="https://github.com/SkyWolfXP#hello-world">
-    <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=maven,gradle,pnpm,npm,&theme=dark&perline=8&titles=true" />
+<a style="grid-column: 2; grid-row: 1;" href="https://github.com/SkyWolfXP#hello-world">
+    <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=maven,gradle,pnpm,npm,&theme=dark&perline=5&titles=true" />
 </a>
-<a href="https://github.com/SkyWolfXP#hello-world">
-    <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,visualstudio,git,&theme=dark&perline=8&titles=true" />
+<a style="grid-column: 2; grid-row: 2;" href="https://github.com/SkyWolfXP#hello-world">
+    <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,visualstudio,git,&theme=dark&perline=5&titles=true" />
 </a>
-<a href="https://github.com/SkyWolfXP#hello-world">
-    <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=heroku,vercel&theme=dark&perline=8&titles=true" />
+<a style="grid-column: 2; grid-row: 3;" href="https://github.com/SkyWolfXP#hello-world">
+    <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=heroku,vercel&theme=dark&perline=5&titles=true" />
 </a>
-</p>
+</div>
