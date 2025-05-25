@@ -13,8 +13,8 @@
 # Skills
 
 <table width="100%">
-  <tr>
-    <td valign="top">
+  <tr width="100%">
+    <td width="100%">
         <h3 align="center">Languages</h3>
         <a href="https://github.com/SkyWolfXP#hello-world">
             <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,html,css,&theme=dark&perline=5&titles=true" />
@@ -28,7 +28,7 @@
             <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=maven,gradle,pnpm,npm,&theme=dark&perline=5&titles=true" />
         </a>
     </td>
-    <td valign="top">
+    <td width="100%">
         <h3 align="center">Frameworks</h3>
         <a href="https://github.com/SkyWolfXP#hello-world">
             <img alt="Frameworks" src="https://go-skill-icons.vercel.app/api/icons?i=spring,junit,nextjs,react,tailwindcss,nodejs,&theme=dark&perline=5&titles=true" />
