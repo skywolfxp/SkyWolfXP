@@ -15,19 +15,19 @@
 <table>
   <tr>
     <td>
-        <h3 align="center">Languages</h3>
+        <p align="center" style="font-size: 24px;">Languages</p>
         <p align="center">
             <a href="https://github.com/SkyWolfXP#hello-world">
                 <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,html,css&theme=dark&perline=4&titles=true" />
             </a>
         </p>
-        <h3 align="center">Databases</h3>
+        <p align="center" style="font-size: 24px;">Databases</p>
         <p align="center">
             <a href="https://github.com/SkyWolfXP#hello-world">
                 <img alt="Databases" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,redis&theme=dark&perline=4&titles=true" />
             </a>
         </p>
-        <h3 align="center">Build Tools</h3>
+        <p align="center" style="font-size: 24px;">Build Tools</p>
         <p align="center">
             <a href="https://github.com/SkyWolfXP#hello-world">
                 <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=maven,gradle,pnpm,npm&theme=dark&perline=4&titles=true" />
