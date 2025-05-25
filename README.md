@@ -15,12 +15,10 @@
 <table>
   <tr>
     <td valign="top">
-        <h3>Languages</h3>
+        <h3 align="center">Languages</h3>
         <a href="https://github.com/SkyWolfXP#hello-world">
             <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,html,css,&theme=dark&perline=5&titles=true" />
         </a>
-    </td>
-    <td valign="top">
         <h3 align="center">Frameworks</h3>
         <a href="https://github.com/SkyWolfXP#hello-world">
             <img alt="Frameworks" src="https://go-skill-icons.vercel.app/api/icons?i=spring,junit,nextjs,react,tailwindcss,nodejs,&theme=dark&perline=5&titles=true" />
