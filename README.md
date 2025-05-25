@@ -12,37 +12,37 @@
 
 # Skills
 
-<table width="100%">
+<table>
   <tr>
     <td>
-        <img width="441" height="1">
-        <h2 align="center">Languages</h2>
+        <h3 align="center">Languages</h3>
         <a href="https://github.com/SkyWolfXP#hello-world">
             <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,html,css,&theme=dark&perline=5&titles=true" />
         </a>
-        <h2 align="center">Databases</h2>
+        <h3 align="center">Databases</h3>
         <a href="https://github.com/SkyWolfXP#hello-world">
             <img alt="Databases" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,redis,&theme=dark&perline=5&titles=true" />
         </a>
-        <h2 align="center">Build Tools</h2>
+        <h3 align="center">Build Tools</h3>
         <a href="https://github.com/SkyWolfXP#hello-world">
             <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=maven,gradle,pnpm,npm,&theme=dark&perline=5&titles=true" />
         </a>
+        <img width="441" height="1">
     </td>
     <td>
-        <img width="441" height="1">
-        <h2 align="center">Frameworks</h2>
+        <h3 align="center">Frameworks</h3>
         <a href="https://github.com/SkyWolfXP#hello-world">
             <img alt="Frameworks" src="https://go-skill-icons.vercel.app/api/icons?i=spring,junit,nextjs,react,tailwindcss,nodejs,&theme=dark&perline=5&titles=true" />
         </a>
-        <h2 align="center">Cloud</h2>
+        <h3 align="center">Cloud</h3>
         <a href="https://github.com/SkyWolfXP#hello-world">
             <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=heroku,vercel&theme=dark&perline=5&titles=true" />
         </a>
-        <h2 align="center">Dev Tools</h2>
+        <h3 align="center">Dev Tools</h3>
         <a href="https://github.com/SkyWolfXP#hello-world">
             <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,visualstudio,git,&theme=dark&perline=5&titles=true" />
         </a>
+        <img width="441" height="1">
     </td>
   </tr>
 </table>
