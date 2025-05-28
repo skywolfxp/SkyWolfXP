@@ -39,7 +39,7 @@
         <p align="center"><strong>Frameworks</strong></p>
         <p align="center">
             <a href="https://github.com/SkyWolfXP#hello-world">
-                <img alt="Frameworks" src="https://go-skill-icons.vercel.app/api/icons?i=spring,junit,nextjs,react,tailwindcss,nodejs&theme=dark&perline=4&titles=true" />
+                <img alt="Frameworks" src="https://go-skill-icons.vercel.app/api/icons?i=spring,springdatajpa,junit,nextjs,react,tailwindcss,nodejs&theme=dark&perline=4&titles=true" />
             </a>
         </p>
         <p align="center"><strong>Cloud Services</strong></p>
@@ -51,7 +51,7 @@
         <p align="center"><strong>Dev Tools</strong></p>
         <p align="center">
             <a href="https://github.com/SkyWolfXP#hello-world">
-                <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,visualstudio,git&theme=dark&perline=4&titles=true" />
+                <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,dbeaver,git&theme=dark&perline=4&titles=true" />
             </a>
         </p>
         <img width="441" height="1">
