@@ -15,8 +15,8 @@
 <table>
   <tr>
     <td>
-        <p align="center"><strong>Languages</strong></p>
         <p align="center">
+            <p><strong>Languages</strong></p>
             <a href="https://github.com/SkyWolfXP#hello-world">
                 <img alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,html,css&theme=dark&perline=4&titles=true" />
             </a>
