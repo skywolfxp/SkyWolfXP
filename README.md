@@ -4,11 +4,22 @@
 📚 Learning Full-Stack Development!\
 🤖 I Program [Discord Bots](https://fiverr.com/s/xXKpg2D) By The Way...
 
+<p style="display: flex; flex-direction: row;">
+    <a href="https://fiverr.com/skywolfxp">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=fiverr">
+        <p>skywolfxp</p>
+    </a>
+    <a href="https://fiverr.com/skywolfxp">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=fiverr">
+        <p>skywolfxp</p>
+    </a>
+</p>
+
 <a href="https://fiverr.com/skywolfxp"><img alt="Fiverr" src="https://img.shields.io/badge/%40skywolfxp-%231DBF73?style=flat-square&logo=fiverr&logoColor=FFFFFF&logoSize=auto"></a>
 <a href="https://upwork.com/freelancers/~013d98c8a8af272cbb"><img alt="Upwork" src="https://img.shields.io/badge/Omar_D.-%236FDA44?style=flat-square&logo=upwork&logoColor=FFFFFF"></a>
 <a href="https://reddit.com/user/skywolfxp"><img alt="Reddit" src="https://img.shields.io/badge/u%2Fskywolfxp-%23FF4500?style=flat-square&logo=reddit&logoColor=FFFFFF"></a>
 <a href="https://stackoverflow.com/users/16410630"><img alt="Stack Overflow" src="https://img.shields.io/badge/SkyWolfXP-%23F58025?style=flat-square&logo=stackoverflow&logoColor=FFFFFF"></a>
-<a href="https://discord.com/users/974748803305455627"><img alt="Discord" src="https://img.shields.io/badge/%40skywolfxp.me-%235865F2?style=flat-square&logo=discord&logoColor=FFFFFF"></a>
+<a href="https://discord.com/users/974748803305455627"><img alt="Discord" src="https://img.shields.io/badge/%40skywolfxp.dev-%235865F2?style=flat-square&logo=discord&logoColor=FFFFFF"></a>
 
 # Skills
 
@@ -42,7 +53,7 @@
     <tr>
         <td>
             <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF">
-            <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF&logoSize=auto">
+            <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF">
             <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=FFFFFF">
             <img width="441" height="1">
         </td>
@@ -59,6 +70,7 @@
     <tr>
         <td>
             <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=FFFFFF">
+            <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=FFFFFF">
             <img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=FFFFFF">
             <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=FFFFFF">
             <img width="441" height="1">
