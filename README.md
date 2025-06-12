@@ -4,16 +4,8 @@
 📚 Learning Full-Stack Development!\
 🤖 I Program [Discord Bots](https://fiverr.com/s/xXKpg2D) By The Way...
 
-<p style="display: flex; flex-direction: row;">
-    <a href="https://fiverr.com/skywolfxp">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=fiverr">
-        <p>skywolfxp</p>
-    </a>
-    <a href="https://fiverr.com/skywolfxp">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=fiverr">
-        <p>skywolfxp</p>
-    </a>
-</p>
+<a href="https://fiverr.com/skywolfxp"><img src="https://go-skill-icons.vercel.app/api/icons?i=fiverr">skywolfxp</a>
+<a href="https://discord.com/users/974748803305455627"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord">@skywolfxp.dev</a>
 
 <a href="https://fiverr.com/skywolfxp"><img alt="Fiverr" src="https://img.shields.io/badge/%40skywolfxp-%231DBF73?style=flat-square&logo=fiverr&logoColor=FFFFFF&logoSize=auto"></a>
 <a href="https://upwork.com/freelancers/~013d98c8a8af272cbb"><img alt="Upwork" src="https://img.shields.io/badge/Omar_D.-%236FDA44?style=flat-square&logo=upwork&logoColor=FFFFFF"></a>
