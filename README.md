@@ -12,7 +12,7 @@
 
 # Skills
 
-<table width="100%">
+<table width="125%">
     <tr>
         <td width="50%"><b>🔤 Languages</b></td>
         <td width="50%"><b>⚙️ Frameworks</b></td>
