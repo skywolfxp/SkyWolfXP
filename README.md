@@ -12,10 +12,21 @@
 
 # Skills
 
+##### Languages
+
 <img alt="Java" height="24" src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=FFFFFF">&nbsp;
 <img alt="TypeScript" height="24" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF">&nbsp;
 <img alt="HTML" height="24" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF">&nbsp;
 <img alt="CSS" height="24" src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=FFFFFF">&nbsp;
+
+##### Frameworks
+
+<img alt="Spring" height="24" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=FFFFFF">&nbsp;
+<img alt="JUnit5" height="24" src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=FFFFFF">&nbsp;
+<img alt="Next.js" height="24" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF">&nbsp;
+<img alt="React" height="24" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=303846">&nbsp;
+<img alt="Tailwind CSS" height="24" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=FFFFFF">&nbsp;
+<img alt="Node.js" height="24" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=FFFFFF">&nbsp;
 
 <table>
   <tr>
