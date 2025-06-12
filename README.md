@@ -39,14 +39,14 @@
             <img alt="Redis" height="24" src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=FFFFFF">
         </td>
         <td>
-            <p align="center"><b>Cloud Services</b></p>
+            <p><b>Cloud Services</b></p>
             <img alt="Heroku" height="24" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=FFFFFF">
             <img alt="Vercel" height="24" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=FFFFFF">
         </td>
     </tr>
     <tr>
         <td>
-            <p align="center"><b>Build Tools</b></p>
+            <p><b>Build Tools</b></p>
             <img alt="Maven" height="24" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=FFFFFF">
             <img alt="pnpm" height="24" src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=FFFFFF">
             <img alt="npm" height="24" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=FFFFFF">
