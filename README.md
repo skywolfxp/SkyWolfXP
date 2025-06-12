@@ -17,12 +17,12 @@
         <td><b style="font-size: 24px;">Languages</b></td>
         <td><b style="font-size: 24px;">Frameworks</b></td>
     </tr>
-    <tr align="center">
+    <tr>
         <td>
-            <img alt="Java" height="24" src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=FFFFFF">
+            [<img alt="Java" height="24" src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=FFFFFF">
             <img alt="TypeScript" height="24" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF">
             <img alt="HTML" height="24" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF">
-            <img alt="CSS" height="24" src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=FFFFFF">
+            <img alt="CSS" height="24" src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=FFFFFF">](#)
         </td>
         <td>
             <img alt="Spring" height="24" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=FFFFFF">
@@ -37,7 +37,7 @@
         <td><b style="font-size: 24px;">Databases</b></td>
         <td><b style="font-size: 24px;">Cloud Services</b></td>
     </tr>
-    <tr align="center">
+    <tr>
         <td>
             <img alt="PostgreSQL" height="24" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF">
             <img alt="MySQL" height="24" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF&logoSize=auto">
@@ -52,7 +52,7 @@
         <td><b style="font-size: 24px;">Build Tools</b></td>
         <td><b style="font-size: 24px;">Dev Tools</b></td>
     </tr>
-    <tr align="center">
+    <tr>
         <td>
             <img alt="Maven" height="24" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=FFFFFF">
             <img alt="pnpm" height="24" src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=FFFFFF">
