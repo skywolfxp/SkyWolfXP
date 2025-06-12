@@ -14,8 +14,8 @@
 
 <table>
     <tr>
-        <th width="50%"><b>🔤 Languages</b></th>
-        <th width="50%"><b>⚙️ Frameworks</b></th>
+        <th width="100%"><b>Languages</b></th>
+        <th width="100%"><b>Frameworks</b></th>
     </tr>
     <tr>
         <td>
@@ -34,8 +34,8 @@
         </td>
     </tr>
     <tr>
-        <th width="50%"><b>🗃️ Databases</b></th>
-        <th width="50%"><b>☁️ Cloud Services</b></th>
+        <th width="50%"><b>Databases</b></th>
+        <th width="50%"><b>Cloud Services</b></th>
     </tr>
     <tr>
         <td>
@@ -49,8 +49,8 @@
         </td>
     </tr>
     <tr>
-        <th width="50%"><b>🛠️ Build Tools</b></th>
-        <th width="50%"><b>🔨 Dev Tools</b></th>
+        <th width="50%"><b>Build Tools</b></th>
+        <th width="50%"><b>Dev Tools</b></th>
     </tr>
     <tr>
         <td>
