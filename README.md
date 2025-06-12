@@ -48,9 +48,7 @@
 
 ##### Dev Tools
 
-<p>
-<img alt="IntelliJ IDEA" height="24" src="https://img.shields.io/badge/IntelliJ IDEA-FFFFFF?style=flat-square&logo=intellijidea&logoColor=000000">
-<img alt="Visual Studio Code" height="24" src="https://img.shields.io/badge/Visual_Studio_Code-0098FF?&style=flat-square&logoColor=0098FF">
-<img alt="DBeaver" height="24" src="https://img.shields.io/badge/DBeaver-D13C0E?style=flat-square&logo=dbeaver&logoColor=FFFFFF">
-<img alt="Git" height="24" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF">
-</p>
+[<img alt="IntelliJ IDEA" height="24" src="https://img.shields.io/badge/IntelliJ IDEA-FFFFFF?style=flat-square&logo=intellijidea&logoColor=000000">](#)
+[<img alt="Visual Studio Code" height="24" src="https://img.shields.io/badge/Visual_Studio_Code-0098FF?&style=flat-square&logoColor=0098FF">](#)
+[<img alt="DBeaver" height="24" src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=FFFFFF">](#)
+[<img alt="Git" height="24" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF">](#)
