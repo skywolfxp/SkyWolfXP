@@ -15,6 +15,7 @@
 <table>
     <tr>
         <td>
+            <img width="441" height="1">
             <p><b>🔤 Languages</b></p>
             <img alt="Java" src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=FFFFFF">
             <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF">
@@ -22,6 +23,7 @@
             <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=FFFFFF">
         </td>
         <td>
+            <img width="441" height="1">
             <p><b>⚙️ Frameworks</b></p>
             <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=FFFFFF">
             <img alt="JUnit5" src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=FFFFFF">
@@ -33,12 +35,14 @@
     </tr>
     <tr>
         <td>
+            <img width="441" height="1">
             <p><b>🗃️ Databases</b></p>
             <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF">
             <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF&logoSize=auto">
             <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=FFFFFF">
         </td>
         <td>
+            <img width="441" height="1">
             <p><b>☁️ Cloud Services</b></p>
             <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=FFFFFF">
             <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=FFFFFF">
@@ -46,12 +50,14 @@
     </tr>
     <tr>
         <td>
+            <img width="441" height="1">
             <p><b>🛠️ Build Tools</b></p>
             <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=FFFFFF">
             <img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=FFFFFF">
             <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=FFFFFF">
         </td>
         <td>
+            <img width="441" height="1">
             <p><b>🔨 Dev Tools</b></p>
             <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=FFFFFF">
             <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0098FF?&style=flat-square&logoColor=0098FF">
