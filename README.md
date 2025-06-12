@@ -39,7 +39,7 @@
             <img alt="Redis" height="24" src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=FFFFFF">
         </td>
         <td>
-            <p><b>Cloud Services</b></p>
+            <h4>Cloud Services</h4>
             <img alt="Heroku" height="24" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=FFFFFF">
             <img alt="Vercel" height="24" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=FFFFFF">
         </td>
