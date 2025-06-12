@@ -12,9 +12,10 @@
 
 # Skills
 
-[<img alt="Java" height="24" src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=FFFFFF">](https://java.com/)
-[<img alt="TypeScript" height="24" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=FFFFFF">](https://typescriptlang.org/)
-[<img alt="HTML" height="24" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=FFFFFF">](https://html.com/)
+<img alt="Java" height="24" src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=FFFFFF">
+<img alt="TypeScript" height="24" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF">
+<img alt="HTML" height="24" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF">
+<img alt="CSS" height="24" src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=FFFFFF">
 
 <table>
   <tr>
