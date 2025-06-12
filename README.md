@@ -14,8 +14,8 @@
 
 <table>
     <tr align="center">
-        <td style="font-size: 24px;"><b>Languages</b></td>
-        <td><b style="font-size: 24px;">Frameworks</b></td>
+        <th><b>Languages</b></th>
+        <th><b>Frameworks</b></th>
     </tr>
     <tr>
         <td>
