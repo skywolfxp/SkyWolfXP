@@ -2,7 +2,7 @@
 
 🐛 Writing Bugs Every Day!\
 📚 Learning Full-Stack Development!\
-🤖 I Code [Discord Bots](https://fiverr.com/s/xXKpg2D) By The Way...
+🤖 I Program [Discord Bots](https://fiverr.com/s/xXKpg2D) By The Way...
 
 <a href="https://fiverr.com/skywolfxp"><img alt="Fiverr" src="https://img.shields.io/badge/%40skywolfxp-%231DBF73?style=flat-square&logo=fiverr&logoColor=FFFFFF&logoSize=auto"></a>
 <a href="https://upwork.com/freelancers/~013d98c8a8af272cbb"><img alt="Upwork" src="https://img.shields.io/badge/Omar_D.-%236FDA44?style=flat-square&logo=upwork&logoColor=FFFFFF"></a>
@@ -21,12 +21,12 @@
 
 ##### Frameworks
 
-<img alt="Spring" height="24" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=FFFFFF">&nbsp;
-<img alt="JUnit5" height="24" src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=FFFFFF">&nbsp;
-<img alt="Next.js" height="24" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF">&nbsp;
-<img alt="React" height="24" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=303846">&nbsp;
-<img alt="Tailwind CSS" height="24" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=FFFFFF">&nbsp;
-<img alt="Node.js" height="24" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=FFFFFF">&nbsp;
+<img alt="Spring" height="24" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=FFFFFF&logoSize=auto">&nbsp;
+<img alt="JUnit5" height="24" src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=FFFFFF&logoSize=auto">&nbsp;
+<img alt="Next.js" height="24" src="https://img.shields.io/badge/Next.js-FFFFFF?style=flat-square&logo=nextdotjs&logoColor=000000&logoSize=auto">&nbsp;
+<img alt="React" height="24" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=303846&logoSize=auto">&nbsp;
+<img alt="Tailwind CSS" height="24" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=FFFFFF&logoSize=auto">&nbsp;
+<img alt="Node.js" height="24" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=FFFFFF&logoSize=auto">&nbsp;
 
 <table>
   <tr>
