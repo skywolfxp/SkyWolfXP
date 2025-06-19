@@ -11,7 +11,7 @@
 📚 Learning Full-Stack Development.\
 🤖 I Program [**Discord Bots**](https://fiverr.com/s/xXKpg2D) By The Way...
 
-<h1 align="center">Skills & Advancements</h1>
+<h1 align="center">Experience</h1>
 
 <table>
     <tr>
