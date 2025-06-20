@@ -15,8 +15,8 @@
 
 <table>
     <tr>
-        <th width="50%"><b>Languages</b><img width="441" height="1"/></th>
-        <th width="50%"><b>Frameworks</b><img width="441" height="1"/></th>
+        <th width="50%"><b>Languages</b></th>
+        <th width="50%"><b>Frameworks</b></th>
     </tr>
     <tr>
         <td width="50%">
@@ -59,12 +59,14 @@
             <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=FFFFFF">
             <img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=FFFFFF">
             <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=FFFFFF">
+            <img width="441" height="1"/>
         </td>
         <td width="50%">
             <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=FFFFFF">
             <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0098FF?&style=flat-square&logoColor=0098FF">
             <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=FFFFFF">
             <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF">
+            <img width="441" height="1"/>
         </td>
     </tr>
 </table>
