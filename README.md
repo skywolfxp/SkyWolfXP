@@ -13,10 +13,10 @@
 
 <h1 align="center">Experience</h1>
 
-<table width="125%">
+<table width="auto">
     <tr>
-        <th width="50%"><b>Languages</b></th>
-        <th width="50%"><b>Frameworks</b></th>
+        <th width="50%"><b>Languages</b><img width="450" height="1"/></th>
+        <th width="50%"><b>Frameworks</b><img width="450" height="1"/></th>
     </tr>
     <tr>
         <td width="50%">
