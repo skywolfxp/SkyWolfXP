@@ -1,10 +1,10 @@
-<h1 align="center">Woah - Hey There Coder</h1>
+<h1 align="center">Hey There Coder</h1>
 
 <div align="center">
     <a href="https://fiverr.com/skywolfxp"><img alt="Fiverr" height="24" src="https://img.shields.io/badge/%40skywolfxp-%231DBF73?style=flat-square&logo=fiverr&logoColor=FFFFFF&logoSize=auto"></a>
-    <a href="https://upwork.com/freelancers/~013d98c8a8af272cbb"><img alt="Upwork" height="24" src="https://img.shields.io/badge/Omar_D.-%236FDA44?style=flat-square&logo=upwork&logoColor=FFFFFF&logoSize=auto"></a>
+    <a href="https://upwork.com/freelancers/~013d98c8a8af272cbb"><img alt="Upwork" height="24" src="https://img.shields.io/badge/Omar_D.-%236FDA44?style=flat-square&logo=upwork&logoColor=FFFFFF"></a>
     <a href="https://reddit.com/user/skywolfxp"><img alt="Reddit" height="24" src="https://img.shields.io/badge/u%2Fskywolfxp-%23FF4500?style=flat-square&logo=reddit&logoColor=FFFFFF"></a>
-    <a href="https://discord.com/users/974748803305455627"><img alt="Discord" height="24" src="https://img.shields.io/badge/%40skywolfxp.dev-%235865F2?style=flat-square&logo=discord&logoColor=FFFFFF&logoSize=auto"></a>
+    <a href="https://discord.com/users/974748803305455627"><img alt="Discord" height="24" src="https://img.shields.io/badge/%40skywolfxp.dev-%235865F2?style=flat-square&logo=discord&logoColor=FFFFFF"></a>
 </div>
 
 🐛 Writing Bugs Every Day!\
@@ -15,8 +15,8 @@
 
 <table>
     <tr>
-        <th><b>Languages</b></th>
-        <th><b>Frameworks</b></th>
+        <td><b>Languages</b></td>
+        <td><b>Frameworks</b></td>
     </tr>
     <tr>
         <td>
@@ -37,8 +37,8 @@
         </td>
     </tr>
     <tr>
-        <th><b>Databases</b></th>
-        <th><b>Cloud Services</b></th>
+        <td><b>Databases</b></td>
+        <td><b>Cloud Services</b></td>
     </tr>
     <tr>
         <td>
@@ -54,8 +54,8 @@
         </td>
     </tr>
     <tr>
-        <th><b>Build Tools</b></th>
-        <th><b>Dev Tools</b></th>
+        <td><b>Build Tools</b></td>
+        <td><b>Dev Tools</b></td>
     </tr>
     <tr>
         <td>
