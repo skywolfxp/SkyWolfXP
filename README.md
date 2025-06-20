@@ -15,8 +15,8 @@
 
 <table>
     <tr>
-        <td><b>Languages</b></td>
-        <td><b>Frameworks</b></td>
+        <th><b>Languages</b></th>
+        <th><b>Frameworks</b></th>
     </tr>
     <tr>
         <td>
@@ -24,7 +24,7 @@
             <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF">
             <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF">
             <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=FFFFFF">
-            <img width="441" height="1">
+            <img width="412" height="1">
         </td>
         <td>
             <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=FFFFFF">
@@ -33,29 +33,29 @@
             <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=303846">
             <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=FFFFFF">
             <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=FFFFFF">
-            <img width="441" height="1">
+            <img width="412" height="1">
         </td>
     </tr>
     <tr>
-        <td><b>Databases</b></td>
-        <td><b>Cloud Services</b></td>
+        <th><b>Databases</b></th>
+        <th><b>Cloud Services</b></th>
     </tr>
     <tr>
         <td>
             <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF">
             <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF">
             <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=FFFFFF">
-            <img width="441" height="1">
+            <img width="412" height="1">
         </td>
         <td>
             <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=FFFFFF">
             <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=FFFFFF">
-            <img width="441" height="1">
+            <img width="412" height="1">
         </td>
     </tr>
     <tr>
-        <td><b>Build Tools</b></td>
-        <td><b>Dev Tools</b></td>
+        <th><b>Build Tools</b></th>
+        <th><b>Dev Tools</b></th>
     </tr>
     <tr>
         <td>
@@ -63,14 +63,14 @@
             <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=FFFFFF">
             <img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=FFFFFF">
             <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=FFFFFF">
-            <img width="441" height="1">
+            <img width="412" height="1">
         </td>
         <td>
             <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=FFFFFF">
             <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0098FF?&style=flat-square&logoColor=0098FF">
             <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=FFFFFF">
             <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF">
-            <img width="441" height="1">
+            <img width="412" height="1">
         </td>
     </tr>
 </table>
