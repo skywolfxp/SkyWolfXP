@@ -15,8 +15,8 @@
 
 <table width="auto">
     <tr>
-        <th width="50%"><b>Languages</b><img width="450" height="1"/></th>
-        <th width="50%"><b>Frameworks</b><img width="450" height="1"/></th>
+        <th width="50%"><b>Languages</b></th>
+        <th width="50%"><b>Frameworks</b></th>
     </tr>
     <tr>
         <td width="50%">
