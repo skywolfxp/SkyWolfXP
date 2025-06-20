@@ -13,7 +13,7 @@
 
 <h1 align="center">Experience</h1>
 
-<table style="width:100%; table-layout: fixed;">
+<table width="125%">
     <tr>
         <th width="50%"><b>Languages</b></th>
         <th width="50%"><b>Frameworks</b></th>
